@@ -6,8 +6,6 @@ export const ButtonIcon = styled.button`
   border: none;
   cursor: pointer;
   border-radius: 50%;
-  color: white;
-  background-color: gray;
 
   display: inline-flex;
   align-items: center;

@@ -44,7 +44,7 @@ export const ContactList = () => {
                 onClick={() => deleteContact(id)}
                 aria-label="Delete contact"
               >
-                <MdDeleteOutline size="20px" />
+                Delet
               </IconButton>
             </Item>
           );

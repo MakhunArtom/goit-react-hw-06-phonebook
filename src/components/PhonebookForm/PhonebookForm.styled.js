@@ -12,8 +12,6 @@ export const FormUs = styled(Form)`
   display: flex;
   flex-direction: column;
   width: 500px;
-  border: 2px solid;
-  background-color: aliceblue;
 `;
 
 export const LabelIn = styled.label`
@@ -30,8 +28,6 @@ export const Button = styled.button`
   border-radius: 3px;
   cursor: pointer;
   transition: all 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  &:hover {
-    background-color: rgba(255, 183, 48, 1);
-    scale: 1.02;
+ 
   }
 `;
