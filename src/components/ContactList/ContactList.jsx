@@ -1,6 +1,5 @@
 import { ContactIt, Item, ListBox } from './ContactList.styled';
 import { IconButton } from 'components/IconButton/IconButton';
-import { MdDeleteOutline } from 'react-icons/md';
 import { useDispatch, useSelector } from 'react-redux';
 import { deleteMyContact, getContacts, getFilter } from '../../redux';
 
